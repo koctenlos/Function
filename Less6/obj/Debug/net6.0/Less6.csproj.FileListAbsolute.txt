@@ -1,0 +1,15 @@
+C:\Users\Danil\Desktop\GB\C# seminar 2\Less6\obj\Debug\net6.0\Less6.csproj.AssemblyReference.cache
+C:\Users\Danil\Desktop\GB\C# seminar 2\Less6\obj\Debug\net6.0\Less6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Danil\Desktop\GB\C# seminar 2\Less6\obj\Debug\net6.0\Less6.AssemblyInfoInputs.cache
+C:\Users\Danil\Desktop\GB\C# seminar 2\Less6\obj\Debug\net6.0\Less6.AssemblyInfo.cs
+C:\Users\Danil\Desktop\GB\C# seminar 2\Less6\obj\Debug\net6.0\Less6.csproj.CoreCompileInputs.cache
+C:\Users\Danil\Desktop\GB\C# seminar 2\Less6\bin\Debug\net6.0\Less6.exe
+C:\Users\Danil\Desktop\GB\C# seminar 2\Less6\bin\Debug\net6.0\Less6.deps.json
+C:\Users\Danil\Desktop\GB\C# seminar 2\Less6\bin\Debug\net6.0\Less6.runtimeconfig.json
+C:\Users\Danil\Desktop\GB\C# seminar 2\Less6\bin\Debug\net6.0\Less6.dll
+C:\Users\Danil\Desktop\GB\C# seminar 2\Less6\bin\Debug\net6.0\Less6.pdb
+C:\Users\Danil\Desktop\GB\C# seminar 2\Less6\obj\Debug\net6.0\Less6.dll
+C:\Users\Danil\Desktop\GB\C# seminar 2\Less6\obj\Debug\net6.0\refint\Less6.dll
+C:\Users\Danil\Desktop\GB\C# seminar 2\Less6\obj\Debug\net6.0\Less6.pdb
+C:\Users\Danil\Desktop\GB\C# seminar 2\Less6\obj\Debug\net6.0\Less6.genruntimeconfig.cache
+C:\Users\Danil\Desktop\GB\C# seminar 2\Less6\obj\Debug\net6.0\ref\Less6.dll

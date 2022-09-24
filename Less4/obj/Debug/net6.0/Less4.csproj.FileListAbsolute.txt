@@ -1,0 +1,15 @@
+C:\Users\Danil\Desktop\GB\C# seminar 2\Less4\obj\Debug\net6.0\Less4.csproj.AssemblyReference.cache
+C:\Users\Danil\Desktop\GB\C# seminar 2\Less4\obj\Debug\net6.0\Less4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Danil\Desktop\GB\C# seminar 2\Less4\obj\Debug\net6.0\Less4.AssemblyInfoInputs.cache
+C:\Users\Danil\Desktop\GB\C# seminar 2\Less4\obj\Debug\net6.0\Less4.AssemblyInfo.cs
+C:\Users\Danil\Desktop\GB\C# seminar 2\Less4\obj\Debug\net6.0\Less4.csproj.CoreCompileInputs.cache
+C:\Users\Danil\Desktop\GB\C# seminar 2\Less4\bin\Debug\net6.0\Less4.exe
+C:\Users\Danil\Desktop\GB\C# seminar 2\Less4\bin\Debug\net6.0\Less4.deps.json
+C:\Users\Danil\Desktop\GB\C# seminar 2\Less4\bin\Debug\net6.0\Less4.runtimeconfig.json
+C:\Users\Danil\Desktop\GB\C# seminar 2\Less4\bin\Debug\net6.0\Less4.dll
+C:\Users\Danil\Desktop\GB\C# seminar 2\Less4\bin\Debug\net6.0\Less4.pdb
+C:\Users\Danil\Desktop\GB\C# seminar 2\Less4\obj\Debug\net6.0\Less4.dll
+C:\Users\Danil\Desktop\GB\C# seminar 2\Less4\obj\Debug\net6.0\refint\Less4.dll
+C:\Users\Danil\Desktop\GB\C# seminar 2\Less4\obj\Debug\net6.0\Less4.pdb
+C:\Users\Danil\Desktop\GB\C# seminar 2\Less4\obj\Debug\net6.0\Less4.genruntimeconfig.cache
+C:\Users\Danil\Desktop\GB\C# seminar 2\Less4\obj\Debug\net6.0\ref\Less4.dll
